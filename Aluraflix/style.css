@@ -1,0 +1,12 @@
+body {
+    color: white;
+    background: black;
+    margin: 22px;
+}
+
+header {
+    border-bottom: solid 2px darkred;
+    padding: 20px;
+    font-size: 32px;
+    color: darkred;
+}
